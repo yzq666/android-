@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/yzq/imageeditdemo/AcCreateEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/graffiti/ColorPickerDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/graffiti/DrawUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/graffiti/GraffitiActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/graffiti/GraffitiView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/utils/DateUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/utils/DensityUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/utils/ImageUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/utils/LogUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/utils/ReflectUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/utils/ThreadUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/back.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/ac_create_event.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
